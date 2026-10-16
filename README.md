@@ -67,4 +67,3 @@ pacman -Qqem > ~/dotfiles/packages-aur.txt
 
 - Folosesc X11 (i3), nu Wayland, deci clipboard-ul merge cu `xclip`, nu `wl-copy`.
 - Logo-ul fastfetch e o imagine afișată prin protocolul kitty, deci merge doar în kitty.
-- Repo-ul e privat. Înainte să-l fac public: verific să nu am tokenuri sau parole în fișiere și scot pozele personale.
