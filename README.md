@@ -47,7 +47,7 @@ Apoi `reboot`. În ecranul de login aleg sesiunea **i3**.
 
 ## Actualizare după modificări
 
-Configurile din `~/.config` sunt copii, nu symlink-uri, deci după ce schimb ceva trebuie să sincronizez manual:
+Configurile din `~/.config` sunt copii, nu symlink-uri, deci după ce schimbi ceva trebuie să sincronizez manual:
 
 ```bash
 cp -r ~/.config/{i3,kitty,picom,fastfetch} ~/dotfiles/
